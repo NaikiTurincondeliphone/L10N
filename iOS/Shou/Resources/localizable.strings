@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ABOUT</key>
+	<string>Acerca</string>
+	<key>Are you sure?</key>
+	<string>¿Estás seguro?</string>
+	<key>B10MB</key>
+	<string>10 Mbps</string>
+	<key>B16MB</key>
+	<string>16 Mbps</string>
+	<key>B1MB</key>
+	<string>1 Mbps</string>
+	<key>B256KB</key>
+	<string>256 Kbps</string>
+	<key>B2MB</key>
+	<string>2 Mbps</string>
+	<key>B3MB</key>
+	<string>3 Mbps</string>
+	<key>B4MB</key>
+	<string>4 Mbps</string>
+	<key>B512KB</key>
+	<string>512 Kbps</string>
+	<key>B6MB</key>
+	<string>6 Mbps</string>
+	<key>B8MB</key>
+	<string>8 Mbps</string>
+	<key>BITRATE</key>
+	<string>Bitrate (Velocidad bits)</string>
+	<key>BROADCAST</key>
+	<string>EMISIÓN</string>
+	<key>BROADCASTING</key>
+	<string>Emitiendo</string>
+	<key>BROADCAST_RECORD</key>
+	<string>Emitir o grabar</string>
+	<key>Broadcast</key>
+	<string>Emisión</string>
+	<key>Broadcast Failed</key>
+	<string>Error al iniciar la emisión</string>
+	<key>Broadcasting stopped!</key>
+	<string>La emisión se ha parado</string>
+	<key>COPYRIGHT</key>
+	<string>Copyright</string>
+	<key>Can't connect to server!</key>
+	<string>No se puede conectar al servidor</string>
+	<key>Can't find live server!</key>
+	<string>No se encuentra el servidor de directo</string>
+	<key>Cancel</key>
+	<string>Cancelar</string>
+	<key>Choose game</key>
+	<string>Seleccionar juego/app</string>
+	<key>Closest</key>
+	<string>Más cercano</string>
+	<key>Continue</key>
+	<string>Continuar</string>
+	<key>DONE</key>
+	<string>Ok</string>
+	<key>DOWNLOAD</key>
+	<string>Descargar</string>
+	<key>DOWNLOAD_RECORDER_233</key>
+	<string>Descargar grabación(233.TV)</string>
+	<key>DOWNLOAD_RECORDER_SHOU</key>
+	<string>Descargar grabación(Shou.TV)</string>
+	<key>DOWNLOAD_VIEWER_233</key>
+	<string>Descargar visor(233.TV)</string>
+	<key>DOWNLOAD_VIEWER_SHOU</key>
+	<string>Descargar visor(Shou.TV)</string>
+	<key>Delete</key>
+	<string>Eliminar</string>
+	<key>Dont support 1080P video save to Camera Roll</key>
+	<string>No ha sido posible guardar el vídeo en la cámara, no soporta 1080P</string>
+	<key>Download Shou.TV</key>
+	<string>Descargar Shou.TV</string>
+	<key>Error! Please try again</key>
+	<string>Error, por favor, prueba otra vez</string>
+	<key>FACEBOOK</key>
+	<string>Facebook</string>
+	<key>FACECAM</key>
+	<string>Cámara frontal</string>
+	<key>FAQ</key>
+	<string>FAQ</string>
+	<key>FEEDBACK</key>
+	<string>Sugerencias</string>
+	<key>FLOATING AVATAR</key>
+	<string>Avatar flotante</string>
+	<key>FLV</key>
+	<string>FLV</string>
+	<key>FORMAT</key>
+	<string>Formato</string>
+	<key>Facecam</key>
+	<string>Cámara frontal</string>
+	<key>GOOGLE_PLUS</key>
+	<string>Google+</string>
+	<key>HELP</key>
+	<string>Ayuda</string>
+	<key>HIGH</key>
+	<string>Alta</string>
+	<key>LANDSCAPE_LEFT</key>
+	<string>Apaisado (Botón de inicio a la izquierda)</string>
+	<key>LANDSCAPE_RIGHT</key>
+	<string>Apaisado (Botón de inicio a la derecha)</string>
+	<key>LOG_OUT</key>
+	<string>Cerrar sesión</string>
+	<key>LOG_OUT_GROUP</key>
+	<string></string>
+	<key>LOW</key>
+	<string>Baja</string>
+	<key>Learn more</key>
+	<string>Leer más</string>
+	<key>Log Out</key>
+	<string>Cerrar sesión</string>
+	<key>MEDIUM</key>
+	<string>Media</string>
+	<key>MKV</key>
+	<string>MKV</string>
+	<key>MOV</key>
+	<string>MOV</string>
+	<key>MP4</key>
+	<string>MP4</string>
+	<key>My Broadcast Streams</key>
+	<string>Mis emisiones stream</string>
+	<key>Network connection error</key>
+	<string>Error de conexión de red</string>
+	<key>No Internet Connection.</key>
+	<string>No hay conexión a internet</string>
+	<key>Note</key>
+	<string>Nota</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Open In...</key>
+	<string>Abrir en...</string>
+	<key>Open my broadcast streams list</key>
+	<string>Abrir mi lista de emisiones stream</string>
+	<key>PORTRAIT</key>
+	<string>Retrato</string>
+	<key>PORTRAIT_UPSIDE</key>
+	<string>Retrato (Parte inferior arriba)</string>
+	<key>PRIVACY_POLICY</key>
+	<string>Política de privacidad</string>
+	<key>Play</key>
+	<string>Reproducir</string>
+	<key>Please allow Shou access Album in iOS Settings &gt; Privacy &gt; Photos.</key>
+	<string>Debes permitir el acceso al álbum en Ajustes&gt; Privacidad &gt; Fotos</string>
+	<key>Please allow Shou access Microphone in iOS Settings &gt; Privacy &gt; Microphone.</key>
+	<string>Debes permitir el acceso al micrófono en Ajustes &gt; Privacidad &gt; Micrófono</string>
+	<key>Please enter broadcast title</key>
+	<string>Debes introducir un título para la emisión</string>
+	<key>Please select a game</key>
+	<string>Debes seleccionar un juego o una app</string>
+	<key>Please upgrade Shou.TV to 0.5.0+</key>
+	<string>Por favor, actualiza Shou.TV a la versión 0.5.0 o superior</string>
+	<key>Privacy</key>
+	<string>Privacidad</string>
+	<key>QUALITY</key>
+	<string>Calidad</string>
+	<key>R1080P</key>
+	<string>1080P</string>
+	<key>R240P</key>
+	<string>240P</string>
+	<key>R360P</key>
+	<string>360P</string>
+	<key>R480P</key>
+	<string>480P</string>
+	<key>R640P</key>
+	<string>640P</string>
+	<key>R720P</key>
+	<string>720P</string>
+	<key>RECORD</key>
+	<string>Grabar</string>
+	<key>RECORDING</key>
+	<string>Grabando</string>
+	<key>RESOLUTION</key>
+	<string>Resolución</string>
+	<key>Record</key>
+	<string>Grabar</string>
+	<key>Record screen</key>
+	<string>Grabar pantalla</string>
+	<key>Recording stopped!</key>
+	<string>Grabaciones detenidas</string>
+	<key>Recordings</key>
+	<string>Grabaciones</string>
+	<key>Save Successfully!</key>
+	<string>Se ha guardado correctamente</string>
+	<key>Save failed!</key>
+	<string>No se ha guardado, el proceso ha fallado</string>
+	<key>Save to Camera Roll</key>
+	<string>Guardar</string>
+	<key>Server</key>
+	<string>Servidor</string>
+	<key>Settings</key>
+	<string>Configuración</string>
+	<key>Share failed</key>
+	<string>Error al compartir</string>
+	<key>Shou</key>
+	<string>Shou</string>
+	<key>Shou.TV server maintenance</key>
+	<string>Servicio de mantenimiento Shou.TV </string>
+	<key>Sign in</key>
+	<string>Registrarse</string>
+	<key>Sign in with Shou.TV</key>
+	<string>Iniciar sesion en Shou.TV</string>
+	<key>Start</key>
+	<string>Inicio</string>
+	<key>Start Broadcast</key>
+	<string>Iniciar emisión</string>
+	<key>Start Record</key>
+	<string>Iniciar grabación</string>
+	<key>Stop</key>
+	<string>Parar</string>
+	<key>Stop Broadcasting</key>
+	<string>Parar emisión</string>
+	<key>Stop Recording</key>
+	<string>Parar grabación</string>
+	<key>TERMS_OF_SERVICE</key>
+	<string>Términos de servicio</string>
+	<key>TS</key>
+	<string>TS</string>
+	<key>TWITTER</key>
+	<string>Twitter</string>
+	<key>Title</key>
+	<string>Título</string>
+	<key>To record most games, turn on AssistiveTouch in iOS Settings &gt; General &gt; Accessibility &gt; AssistiveTouch.</key>
+	<string>Para grabar la mayoría de los juegos, activa AssistiveTouch en Ajustes &gt; General &gt; Accesibilidad &gt; AssistiveTouch</string>
+	<key>VERSION</key>
+	<string>Versión</string>
+	<key>VIDEO_ORIENTATION</key>
+	<string>Orientación</string>
+	<key>WEBSITE</key>
+	<string>Sitio web</string>
+	<key>Watch my live stream</key>
+	<string>Mira mi transmisión en vivo</string>
+	<key>You need to install Shou.TV from AppStore to sign in the app</key>
+	<string>Necesitas instalar Shou.TV desde la AppStore para iniciar sesión en la aplicación</string>
+	<key>give</key>
+	<string>Dio</string>
+	<key>not_support_title</key>
+	<string>Shou no puede grabar en el iPad 2, 3, iPhone 4 y dispositivos con iOS 9, necesitas instalar AirShou for iOS 9+ o Shou para Mac: https://shou.tv/ios</string>
+</dict>
